@@ -1,0 +1,2 @@
+Hello stream writer
+some new information sw
